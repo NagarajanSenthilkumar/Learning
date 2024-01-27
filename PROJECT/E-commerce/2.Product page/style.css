@@ -1,0 +1,1120 @@
+.products-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.products-page .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 2233px;
+  position: relative;
+}
+
+.products-page .overlap {
+  height: 2000px;
+  top: 240px;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.products-page .footer {
+  display: flex;
+  flex-direction: column;
+  width: 1439px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  padding: 104px 160px;
+  position: absolute;
+  top: 1536px;
+  left: 1px;
+  background-color: var(--mainblack);
+}
+
+.products-page .info {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 113px 113px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.products-page .logo-text {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.products-page .logo {
+  position: relative;
+  width: 96px;
+  height: 32px;
+}
+
+.products-page .text-wrapper {
+  position: relative;
+  width: 384px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #cfcfcf;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 23.9px;
+}
+
+.products-page .footer-navigation {
+  display: flex;
+  width: 623px;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+}
+
+.products-page .section {
+  display: flex;
+  flex-direction: column;
+  width: 295.5px;
+  align-items: flex-start;
+  gap: 8px;
+  position: relative;
+}
+
+.products-page .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Semibold", Helvetica;
+  font-weight: 400;
+  color: var(--mainwhite);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.products-page .p {
+  position: relative;
+  align-self: stretch;
+  font-family: "SF Pro Display-Light", Helvetica;
+  font-weight: 300;
+  color: #cfcfcf;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.products-page .social-icons {
+  display: flex;
+  width: 173px;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.products-page .img {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+
+.products-page .content {
+  display: flex;
+  width: 1440px;
+  align-items: flex-start;
+  gap: 32px;
+  padding: 24px 160px 56px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.products-page .filters {
+  display: flex;
+  flex-direction: column;
+  max-width: 256px;
+  align-items: flex-end;
+  gap: 24px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.products-page .div-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.products-page .dropdown {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 12px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+}
+
+.products-page .title {
+  position: relative;
+  flex: 1;
+  margin-top: -0.5px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--mainblack);
+  font-size: 18px;
+  letter-spacing: 0.54px;
+  line-height: 24px;
+}
+
+.products-page .img-2 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.products-page .line {
+  position: absolute;
+  width: 256px;
+  height: 1px;
+  top: 48px;
+  left: -1px;
+}
+
+.products-page .div-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  width: 100%;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+}
+
+.products-page .from-to {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.products-page .content-2 {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 8px;
+  flex: 1;
+  flex-grow: 1;
+  display: flex;
+  position: relative;
+}
+
+.products-page .text {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.products-page .from {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Oooh Baby", Helvetica;
+  font-weight: 400;
+  color: var(--mainblack);
+  font-size: 14px;
+  letter-spacing: -0.07px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.products-page .span {
+  color: #a7a7a7;
+}
+
+.products-page .text-wrapper-3 {
+  color: #000000;
+}
+
+.products-page .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 400;
+  color: #a7a7a7;
+  font-size: 14px;
+  letter-spacing: -0.07px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.products-page .info-2 {
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.products-page .div-wrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 64px 8px 8px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: 0.5px solid;
+  border-color: #9e9e9e;
+}
+
+.products-page .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.5px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--mainblack);
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: -0.07px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.products-page .line-2 {
+  position: relative;
+  width: 20px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.products-page .info-3 {
+  display: flex;
+  width: 106px;
+  align-items: center;
+  gap: 8px;
+  padding: 8px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: 0.5px solid;
+  border-color: #9e9e9e;
+}
+
+.products-page .text-wrapper-6 {
+  position: relative;
+  flex: 1;
+  margin-top: -0.5px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--mainblack);
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: -0.07px;
+  line-height: 24px;
+}
+
+.products-page .scroll {
+  display: flex;
+  align-items: center;
+  gap: 99px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.products-page .rectangle {
+  position: absolute;
+  width: 254px;
+  height: 4px;
+  top: 4px;
+  left: 2px;
+  background-color: #414040;
+  border-radius: 2px;
+}
+
+.products-page .ellipse {
+  position: relative;
+  width: 12px;
+  height: 12px;
+  background-color: var(--mainblack);
+  border-radius: 6px;
+}
+
+.products-page .rectangle-2 {
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  height: 4px;
+  background-color: #cecece;
+  border-radius: 2px;
+}
+
+.products-page .ellipse-2 {
+  position: absolute;
+  top: 0;
+  left: 107px;
+  width: 12px;
+  height: 12px;
+  background-color: var(--mainblack);
+  border-radius: 6px;
+}
+
+.products-page .content-3 {
+  align-items: flex-end;
+  gap: 24px;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  position: relative;
+}
+
+.products-page .div-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.products-page .search-field {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+}
+
+.products-page .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  opacity: 0.5;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #646464;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.products-page .div-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.products-page .checbox-field {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.products-page .done-round {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.products-page .apple {
+  position: relative;
+  flex: 1;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 400;
+  color: var(--mainblack);
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.products-page .text-wrapper-8 {
+  font-weight: 500;
+  color: #000000;
+}
+
+.products-page .text-wrapper-9 {
+  font-family: "SF Pro Display-Regular", Helvetica;
+  color: #919191;
+  font-size: 12px;
+}
+
+.products-page .done-round-2 {
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 3px;
+  border: 0.5px solid;
+  border-color: #d2d2d2;
+}
+
+.products-page .text-wrapper-10 {
+  font-weight: 500;
+  color: #000000;
+  font-size: 14px;
+}
+
+.products-page .apple-2 {
+  position: relative;
+  flex: 1;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--mainblack);
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.products-page .text-wrapper-11 {
+  color: #000000;
+  font-size: 14px;
+}
+
+.products-page .text-wrapper-12 {
+  color: #919191;
+  font-size: 12px;
+}
+
+.products-page .div-6 {
+  display: inline-flex;
+  align-items: flex-end;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.products-page .rectangle-3 {
+  position: relative;
+  width: 2px;
+  height: 336px;
+  background-color: #d9d9d9;
+  border-radius: 2px;
+}
+
+.products-page .rectangle-4 {
+  position: absolute;
+  width: 2px;
+  height: 92px;
+  top: 0;
+  left: 0;
+  background-color: #5c5c5c;
+  border-radius: 2px;
+}
+
+.products-page .content-4 {
+  height: 256px;
+  align-items: flex-start;
+  gap: 24px;
+  align-self: stretch;
+  width: 100%;
+  display: flex;
+  position: relative;
+}
+
+.products-page .scrol {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.products-page .rectangle-5 {
+  position: relative;
+  width: 2px;
+  height: 240px;
+  background-color: #d9d9d9;
+  border-radius: 2px;
+}
+
+.products-page .dropdowns {
+  display: flex;
+  flex-direction: column;
+  height: 244px;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.products-page .dropdown-2 {
+  align-items: flex-start;
+  padding: 12px 0px;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-bottom: -20px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.products-page .product {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.products-page .top-part {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 479px 16px;
+  display: flex;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.products-page .left-side {
+  display: flex;
+  min-width: 200px;
+  align-items: flex-end;
+  gap: 6px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.products-page .text-wrapper-13 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #6b6b6b;
+  font-size: 16px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.products-page .text-wrapper-14 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0.6px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.products-page .dropdown-3 {
+  min-width: 140px;
+  max-width: 256px;
+  align-items: center;
+  padding: 8px 16px;
+  flex: 1;
+  flex-grow: 1;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 0.5px solid;
+  border-color: #d3d3d3;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.products-page .text-wrapper-15 {
+  position: relative;
+  width: 65px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: -0.07px;
+  line-height: 16px;
+}
+
+.products-page .row {
+  flex-wrap: wrap;
+  min-width: 200px;
+  gap: 16px 16px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.products-page .product-card {
+  display: flex;
+  flex-direction: column;
+  min-width: 200px;
+  align-items: center;
+  gap: 16px;
+  padding: 24px 16px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  background-color: #f6f6f6;
+  border-radius: 9px;
+}
+
+.products-page .top-section {
+  justify-content: flex-end;
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.products-page .icon-like {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  background-image: url(./img/favorite-duotone-8.svg);
+  background-size: 100% 100%;
+}
+
+.products-page .iphone-pro {
+  position: relative;
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+}
+
+.products-page .text-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.products-page .apple-iphone-pro {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--mainblack);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.products-page .text-wrapper-16 {
+  position: relative;
+  align-self: stretch;
+  font-family: "SF Pro Display-Semibold", Helvetica;
+  font-weight: 400;
+  color: var(--mainblack);
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+}
+
+.products-page .button {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 64px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--mainblack);
+  border-radius: 8px;
+}
+
+.products-page .label {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--mainwhite);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.products-page .icon-px-like {
+  background-image: url(./img/favorite-duotone-7.svg);
+  position: relative;
+  width: 32px;
+  height: 32px;
+  background-size: 100% 100%;
+}
+
+.products-page .icon-like-2 {
+  background-image: url(./img/favorite-duotone-6.svg);
+  position: relative;
+  width: 32px;
+  height: 32px;
+  background-size: 100% 100%;
+}
+
+.products-page .icon-like-3 {
+  background-image: url(./img/favorite-duotone-5.svg);
+  position: relative;
+  width: 32px;
+  height: 32px;
+  background-size: 100% 100%;
+}
+
+.products-page .icon-like-4 {
+  background-image: url(./img/favorite-duotone-4.svg);
+  position: relative;
+  width: 32px;
+  height: 32px;
+  background-size: 100% 100%;
+}
+
+.products-page .icon-like-5 {
+  background-image: url(./img/favorite-duotone-3.svg);
+  position: relative;
+  width: 32px;
+  height: 32px;
+  background-size: 100% 100%;
+}
+
+.products-page .icon-like-6 {
+  background-image: url(./img/favorite-duotone-2.svg);
+  position: relative;
+  width: 32px;
+  height: 32px;
+  background-size: 100% 100%;
+}
+
+.products-page .icon-like-7 {
+  background-image: url(./img/favorite-duotone-1.svg);
+  position: relative;
+  width: 32px;
+  height: 32px;
+  background-size: 100% 100%;
+}
+
+.products-page .icon-like-8 {
+  background-image: url(./img/favorite-duotone.svg);
+  position: relative;
+  width: 32px;
+  height: 32px;
+  background-size: 100% 100%;
+}
+
+.products-page .pagination {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.products-page .element {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 4px 12px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--mainblack);
+  border-radius: 5px;
+}
+
+.products-page .text-wrapper-17 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.5px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--mainwhite);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.products-page .element-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 4px 11px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #f6f6f6;
+  border-radius: 5px;
+}
+
+.products-page .element-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.5px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--mainblack);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.products-page .div-7 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 4px;
+  padding: 0px 0px 3px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.products-page .ellipse-3 {
+  position: relative;
+  width: 3px;
+  height: 3px;
+  background-color: #727272;
+  border-radius: 1.5px;
+}
+
+.products-page .breadcrumbs {
+  display: flex;
+  width: 1440px;
+  align-items: center;
+  gap: 16px;
+  padding: 40px 160px;
+  position: absolute;
+  top: 136px;
+  left: 0;
+}
+
+.products-page .text-wrapper-18 {
+  position: relative;
+  width: fit-content;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #a3a3a3;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.products-page .text-wrapper-19 {
+  position: relative;
+  width: fit-content;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.products-page .overlap-group {
+  height: 136px;
+  top: -8px;
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.products-page .header {
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  align-items: flex-start;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.products-page .header-top {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  padding: 16px 160px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--mainwhite);
+}
+
+.products-page .search-field-2 {
+  display: flex;
+  height: 56px;
+  align-items: center;
+  gap: 8px;
+  padding: 16px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+}
+
+.products-page .navbar {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 52px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.products-page .text-wrapper-20 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--mainblack);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.products-page .text-wrapper-21 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  opacity: 0.3;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--mainblack);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.products-page .icons {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.products-page .img-3 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+
+.products-page .subnav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 66px 16px;
+  padding: 8px 160px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--secondarycharcoal);
+}
+
+.products-page .nav-category {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.products-page .text-wrapper-22 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  opacity: 0.5;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--mainwhite);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.products-page .devider {
+  position: relative;
+  width: 1px;
+  height: 24px;
+  object-fit: cover;
+}
