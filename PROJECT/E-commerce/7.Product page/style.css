@@ -1,0 +1,1358 @@
+.divpro{
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+}
+.footer {
+  background: var(--main-black, #000000);
+  padding: 104px 160px 104px 160px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 1439px;
+  position: absolute;
+  left: calc(50% - 719px);
+  top: 1128px;
+}
+.info {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.logo-text {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.logo {
+  flex-shrink: 0;
+  width: 96px;
+  height: 32px;
+  position: relative;
+}
+.logo2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.we-are-a-residential-interior-design-firm-located-in-portland-our-boutique-studio-offers-more-than {
+  color: #cfcfcf;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 170.5%;
+  font-weight: 500;
+  position: relative;
+  width: 384px;
+}
+.footer-navigation {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 623px;
+  position: relative;
+}
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 295.5px;
+  position: relative;
+}
+.services {
+  color: var(--main-white, #ffffff);
+  text-align: left;
+  font-family: "SfProDisplay-Semibold", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 600;
+  position: relative;
+}
+.bonus-program-gift-cards-credit-and-payment-service-contracts-non-cash-account-payment {
+  color: #cfcfcf;
+  text-align: left;
+  font-family: "SfProDisplay-Light", sans-serif;
+  font-size: 14px;
+  line-height: 32px;
+  font-weight: 300;
+  position: relative;
+  align-self: stretch;
+}
+.assistance-to-the-buyer {
+  color: var(--main-white, #ffffff);
+  text-align: left;
+  font-family: "SfProDisplay-Semibold", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 600;
+  position: relative;
+}
+.find-an-order-terms-of-delivery-exchange-and-return-of-goods-guarantee-frequently-asked-questions-terms-of-use-of-the-site {
+  color: #cfcfcf;
+  text-align: left;
+  font-family: "SfProDisplay-Light", sans-serif;
+  font-size: 14px;
+  line-height: 32px;
+  font-weight: 300;
+  position: relative;
+  align-self: stretch;
+}
+.social-icons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 173px;
+  position: relative;
+}
+.icon-16-px-twitter {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.icon-16-px-facebook {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.icon-16-px-tiktok {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.icon-16-px-instagram {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.content {
+  padding: 24px 160px 72px 160px;
+  display: flex;
+  flex-direction: row;
+  gap: 96px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1440px;
+  position: absolute;
+  left: 0px;
+  top: 320px;
+}
+.left-side {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #ebebeb;
+  border-width: 1px;
+  padding: 32px 24px 32px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.summary {
+  color: #000000;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 16px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.selected-products {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.added-product {
+  background: #f6f6f6;
+  border-radius: 13px;
+  padding: 16px 0px 16px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.product-image {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: relative;
+}
+.image-phone-mini {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  object-fit: cover;
+}
+.text {
+  padding: 0px 24px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex: 1;
+  position: relative;
+}
+.apple-i-phone-14-pro-max-128-gb {
+  color: var(--main-black, #000000);
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+  width: 319px;
+}
+._1399 {
+  color: var(--main-black, #000000);
+  text-align: right;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  position: relative;
+}
+.details {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.shipment-info {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.title-field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.address {
+  color: #545454;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.field {
+  border-radius: 7px;
+  padding: 12px 0px 12px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 87px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._1131-dusty-townline-jacksonville-tx-40322 {
+  color: #000000;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.shipment-method {
+  color: #545454;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.field2 {
+  border-radius: 7px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.free {
+  color: #000000;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.price-info {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.subtotal {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.subtotal2 {
+  color: #000000;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+._2347 {
+  color: #000000;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 500;
+  position: relative;
+}
+.taxes {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.price {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.text2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.estimated-tax {
+  color: #545454;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+._50 {
+  color: #000000;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 500;
+  position: relative;
+}
+.estimated-shipping-handling {
+  color: #545454;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+._29 {
+  color: #000000;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 500;
+  position: relative;
+}
+.total {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.total2 {
+  color: #000000;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+._2426 {
+  color: #000000;
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 700;
+  position: relative;
+}
+.right-side {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.payment-details {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.top {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.payment {
+  color: #000000;
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 16px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.tabs {
+  display: flex;
+  flex-direction: row;
+  gap: 56px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.selected {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0px 0px 1px 0px;
+  padding: 8px 0px 8px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.credit-card {
+  color: #000000;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.pay-pal {
+  color: #717171;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.pay-pal-credit {
+  color: #717171;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.credit-card2 {
+  flex-shrink: 0;
+  width: 337px;
+  height: 190px;
+  position: relative;
+}
+.rectangle-4171 {
+  background: var(--main-black, #000000);
+  border-radius: 15.81px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0.47%;
+  top: 0.44%;
+  height: 99.1%;
+}
+.rectangle-4169 {
+  height: auto;
+  position: absolute;
+  right: 29.53%;
+  left: 32.84%;
+  width: 37.63%;
+  bottom: 0.53%;
+  top: 0.51%;
+  height: 98.96%;
+  overflow: visible;
+}
+.rectangle-4170 {
+  height: auto;
+  position: absolute;
+  right: 17.32%;
+  left: 45.06%;
+  width: 37.62%;
+  bottom: 0.58%;
+  top: 0.44%;
+  height: 98.98%;
+  overflow: visible;
+}
+.info-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 11.5px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 4.72%;
+  left: 6.67%;
+  width: 88.61%;
+  bottom: 55.69%;
+  top: 12.76%;
+  height: 31.55%;
+}
+.icons {
+  padding: 0px 0px 0px 5.75px;
+  display: flex;
+  flex-direction: row;
+  gap: 5.75px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-7 {
+  flex-shrink: 0;
+  width: 20.5px;
+  height: 20.5px;
+  position: relative;
+  object-fit: cover;
+}
+.wifi {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  transform: translate(-24px, 0px);
+  overflow: visible;
+}
+.info-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 22.99px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 4.75%;
+  left: 6.65%;
+  width: 88.6%;
+  bottom: 9.32%;
+  top: 53.15%;
+  height: 37.53%;
+}
+.number {
+  padding: 0px 40.24px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 5.75px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._4085 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "SfProText-Semibold", sans-serif;
+  font-size: 17.245201110839844px;
+  line-height: 24px;
+  font-weight: 600;
+  position: relative;
+  flex: 1;
+}
+._9536 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "SfProText-Semibold", sans-serif;
+  font-size: 17.245201110839844px;
+  line-height: 24px;
+  font-weight: 600;
+  position: relative;
+  flex: 1;
+}
+._8475 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "SfProText-Semibold", sans-serif;
+  font-size: 17.245201110839844px;
+  line-height: 24px;
+  font-weight: 600;
+  position: relative;
+  flex: 1;
+}
+._9530 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "SfProText-Semibold", sans-serif;
+  font-size: 17.245201110839844px;
+  line-height: 24px;
+  font-weight: 600;
+  position: relative;
+  flex: 1;
+}
+.name {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.cardholder {
+  color: #aeaeae;
+  text-align: left;
+  font-family: "SfProText-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+}
+.mastercard {
+  flex-shrink: 0;
+  width: 40.24px;
+  height: 22.99px;
+  position: relative;
+  overflow: visible;
+}
+.fields {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.field3 {
+  background: #ffffff;
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #cecece;
+  border-width: 0.5px;
+  padding: 12px 16px 12px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.cvv {
+  color: #979797;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._2-fields {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.field4 {
+  background: #ffffff;
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #cecece;
+  border-width: 0.5px;
+  padding: 12px 16px 12px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+  height: 48px;
+  position: relative;
+}
+.checbox-field {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.done-round {
+  border-radius: 3px;
+  padding: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.apple-110 {
+  color: var(--main-black, #000000);
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 15px;
+  line-height: 24px;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+}
+.buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 23px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.button {
+  border-radius: 6px;
+  border-style: solid;
+  border-color: var(--main-black, #000000);
+  border-width: 1px;
+  padding: 24px 86px 24px 86px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+.label {
+  color: var(--main-black, #000000);
+  text-align: center;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.button2 {
+  background: var(--main-black, #000000);
+  border-radius: 6px;
+  padding: 24px 86px 24px 86px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+.label2 {
+  color: var(--main-white, #ffffff);
+  text-align: center;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.steps {
+  padding: 72px 160px 72px 160px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 1440px;
+  position: absolute;
+  left: 0px;
+  top: 136px;
+}
+.step-1 {
+  opacity: 0.20000000298023224;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+  height: 40px;
+  position: relative;
+}
+.icon-24-px-location {
+  border-radius: 21px;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.text3 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 128px;
+  position: relative;
+}
+.step-12 {
+  color: var(--main-black, #000000);
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.address2 {
+  color: var(--main-black, #000000);
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 19px;
+  line-height: 24px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.line {
+  border-width: 0.5px 0 0 0;
+  border-style: dashed;
+  border-image: linear-gradient(
+    -90deg,
+    rgba(230, 230, 230, 1) 0.5518622230738401%,
+    rgba(0, 0, 0, 1) 46.14582061767578%,
+    rgba(230, 230, 230, 0.43) 100%
+  );
+  border-image-slice: 1;
+  flex: 1;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.step-2 {
+  opacity: 0.20000000298023224;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 40px;
+  position: relative;
+}
+.icon-24-px-shipping {
+  border-radius: 18px;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.step-22 {
+  color: var(--main-black, #000000);
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.line2 {
+  border-width: 0.5px 0 0 0;
+  border-style: dashed;
+  border-image: linear-gradient(
+    270deg,
+    rgba(230, 230, 230, 1) 0.5518622230738401%,
+    rgba(0, 0, 0, 1) 52.46155261993408%,
+    rgba(230, 230, 230, 0.43) 100%
+  );
+  border-image-slice: 1;
+  flex: 1;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.step-4 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 40px;
+  position: relative;
+}
+.icon-24-px-payment {
+  background: var(--main-black, #000000);
+  border-radius: 18px;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+}
+.group {
+  height: auto;
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  overflow: visible;
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1440px;
+  left: 0px;
+  top: 0px;
+}
+.header-top {
+  background: var(--main-white, #ffffff);
+  padding: 16px 160px 16px 160px;
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.logo3 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.search-field {
+  background: #f5f5f5;
+  border-radius: 8px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+  height: 56px;
+  position: relative;
+}
+.icon-32-px-search {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.search {
+  color: #656565;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 500;
+  opacity: 0.5;
+  position: relative;
+}
+.navigation {
+  display: flex;
+  flex-direction: row;
+  gap: 52px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.home {
+  color: var(--main-black, #000000);
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.about {
+  color: var(--main-black, #000000);
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  opacity: 0.30000001192092896;
+  position: relative;
+}
+.contact-us {
+  color: var(--main-black, #000000);
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  opacity: 0.30000001192092896;
+  position: relative;
+}
+.blog {
+  color: var(--main-black, #000000);
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  opacity: 0.30000001192092896;
+  position: relative;
+}
+.icons2 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.icon-32-px-favorites {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.icon-32-px-cart {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+.cart-1 {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.icon-32-px-user {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.subnav {
+  background: var(--secondary-charcoal, #2e2e2e);
+  padding: 8px 160px 8px 160px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.nav-category {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.icon-24-px-phones {
+  opacity: 0.5;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.phones {
+  color: var(--main-white, #ffffff);
+  text-align: center;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 500;
+  opacity: 0.5;
+  position: relative;
+}
+.devider {
+  border-style: solid;
+  border-color: var(--main-white, #ffffff);
+  border-width: 1px 0 0 0;
+  opacity: 0.20000000298023224;
+  flex-shrink: 0;
+  width: 24px;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.icon-24-px-computers {
+  opacity: 0.5;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.computers {
+  color: var(--main-white, #ffffff);
+  text-align: center;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 500;
+  opacity: 0.5;
+  position: relative;
+}
+.icon-24-px-gaming {
+  opacity: 0.5;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.smart-watches {
+  color: var(--main-white, #ffffff);
+  text-align: center;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 500;
+  opacity: 0.5;
+  position: relative;
+}
+.icon-24-px-cameras {
+  opacity: 0.5;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.cameras {
+  color: var(--main-white, #ffffff);
+  text-align: center;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 500;
+  opacity: 0.5;
+  position: relative;
+}
+.icon-24-px-headphones {
+  opacity: 0.5;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.headphones {
+  color: var(--main-white, #ffffff);
+  text-align: center;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 500;
+  opacity: 0.5;
+  position: relative;
+}
+.icon-24-px-gaming2 {
+  opacity: 0.5;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.gaming {
+  color: var(--main-white, #ffffff);
+  text-align: center;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 500;
+  opacity: 0.5;
+  position: relative;
+}
