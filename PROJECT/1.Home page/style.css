@@ -1,0 +1,1273 @@
+
+.home {
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+
+}
+
+.home .div {
+  background-color: #f9f9f9;
+  width: 1440px;
+  height: 4968px;
+  position: relative;
+}
+
+.home .footer {
+  flex-direction: column;
+  width: 1439px;
+  justify-content: center;
+  gap: 24px;
+  padding: 104px 160px;
+  position: absolute;
+  top: 4504px;
+  left: 0;
+  background-color: var(--mainblack);
+  display: flex;
+  align-items: flex-start;
+}
+
+.home .info {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home .logo-text {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home .logo {
+  position: relative;
+  width: 96px;
+  height: 32px;
+}
+
+.home .text-wrapper {
+  position: relative;
+  width: 384px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #cfcfcf;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 23.9px;
+}
+
+.home .footer-navigation {
+  width: 623px;
+  justify-content: space-between;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+}
+
+.home .section {
+  display: flex;
+  flex-direction: column;
+  width: 295.5px;
+  align-items: flex-start;
+  gap: 8px;
+  position: relative;
+}
+
+.home .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Semibold", Helvetica;
+  font-weight: 400;
+  color: var(--mainwhite);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.home .p {
+  position: relative;
+  align-self: stretch;
+  font-family: "SF Pro Display-Light", Helvetica;
+  font-weight: 300;
+  color: #cfcfcf;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.home .social-icons {
+  display: flex;
+  width: 173px;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home .img {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+
+.home .banner {
+  height: 448px;
+  top: 4056px;
+  background: linear-gradient(180deg, rgb(46, 46, 46) 0%, rgb(0, 0, 0) 100%);
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.home .image {
+  position: absolute;
+  width: 338px;
+  height: 116px;
+  top: 0;
+  left: 223px;
+}
+
+.home .image-2 {
+  position: absolute;
+  width: 184px;
+  height: 374px;
+  top: 0;
+  left: 1256px;
+  object-fit: cover;
+}
+
+.home .jbl-jr-blue {
+  position: absolute;
+  width: 345px;
+  height: 262px;
+  top: 172px;
+  left: 0;
+}
+
+.home .image-3 {
+  position: absolute;
+  width: 397px;
+  height: 201px;
+  top: 247px;
+  left: 1043px;
+  object-fit: cover;
+}
+
+.home .image-4 {
+  position: absolute;
+  width: 237px;
+  height: 192px;
+  top: 3px;
+  left: 39px;
+  object-fit: cover;
+}
+
+.home .content {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  position: absolute;
+  top: 159px;
+  left: 500px;
+}
+
+.home .titles {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home .big-summer-sale {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Thin", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 72px;
+  text-align: center;
+  letter-spacing: -0.72px;
+  line-height: 72px;
+  white-space: nowrap;
+}
+
+.home .span {
+  font-weight: 100;
+}
+
+.home .text-wrapper-3 {
+  font-family: "SF Pro Display-Light", Helvetica;
+  font-weight: 300;
+}
+
+.home .text-wrapper-4 {
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+}
+
+.home .text-wrapper-5 {
+  position: relative;
+  align-self: stretch;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #787878;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.home .button {
+  all: unset;
+  box-sizing: border-box;
+  padding: 16px 56px;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: var(--mainwhite);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home .label {
+  color: var(--mainwhite);
+  font-size: 16px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+  color: white;
+}
+.label:active{
+  color: wheat;
+}
+.home .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 1280px;
+  top: 2776px;
+  left: 0;
+}
+
+.home .discount-products {
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  align-items: flex-start;
+  gap: 32px;
+  padding: 80px 160px;
+  position: absolute;
+  top: 624px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.home .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.home .row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 16px 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home .pair {
+  min-width: 200px;
+  gap: 16px 16px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.home .product-card {
+  display: flex;
+  flex-direction: column;
+  min-width: 200px;
+  align-items: center;
+  gap: 16px;
+  padding: 24px 16px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  background-color: #f6f6f6;
+  border-radius: 9px;
+}
+
+.home .top-section {
+  justify-content: flex-end;
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home .icon-like {
+  background-image: url(./img/favorite-duotone.svg);
+  background-size: 100% 100%;
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+
+.home .iphone-pro {
+  position: relative;
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+}
+
+.home .text-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home .div-2 {
+  flex-direction: column;
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home .text-wrapper-7 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--mainblack);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.home .element {
+  position: relative;
+  align-self: stretch;
+  font-family: "SF Pro Display-Semibold", Helvetica;
+  font-weight: 400;
+  color: var(--mainblack);
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+}
+
+.home .label-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  padding: 12px 64px;
+  background-color: var(--mainblack);
+  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home .label-2 {
+  color: var(--mainwhite);
+  font-size: 14px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.home .banners {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1440px;
+  align-items: flex-start;
+  gap: 0px 0px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.home .pair-2 {
+  min-width: 280px;
+  gap: 0px 0px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.home .big-banner {
+  display: flex;
+  flex-direction: column;
+  min-width: 280px;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 376px 32px 56px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  background-color: var(--mainwhite);
+}
+
+.home .title-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home .text-wrapper-8 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 33px;
+  letter-spacing: 0;
+  line-height: 48px;
+}
+
+.home .text-wrapper-9 {
+  position: relative;
+  align-self: stretch;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #909090;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.home .div-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  padding: 16px 56px;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: var(--mainblack);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home .label-3 {
+  color: var(--mainblack);
+  font-size: 16px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.home .image-5 {
+  position: absolute;
+  width: 360px;
+  height: 405px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.home .image-6 {
+  position: absolute;
+  width: 262px;
+  height: 307px;
+  top: 12px;
+  left: 98px;
+  object-fit: cover;
+}
+
+.home .big-banner-2 {
+  flex-direction: column;
+  min-width: 280px;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 376px 32px 56px;
+  background-color: #f8f8f8;
+  display: flex;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.home .image-7 {
+  position: absolute;
+  width: 328px;
+  height: 338px;
+  top: 0;
+  left: 32px;
+  object-fit: cover;
+}
+
+.home .big-banner-3 {
+  flex-direction: column;
+  min-width: 280px;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 376px 32px 56px;
+  background-color: #eaeaea;
+  display: flex;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.home .image-8 {
+  position: absolute;
+  width: 360px;
+  height: 360px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.home .big-banner-4 {
+  flex-direction: column;
+  min-width: 280px;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 376px 32px 56px;
+  background-color: #2b2b2b;
+  display: flex;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.home .text-wrapper-10 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Light", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 33px;
+  letter-spacing: 0;
+  line-height: 48px;
+}
+
+.home .macbook {
+  position: absolute;
+  width: 282px;
+  height: 464px;
+  top: 0;
+  left: 78px;
+  object-fit: cover;
+}
+
+.home .products {
+  width: 1440px;
+  gap: 32px;
+  padding: 56px 160px;
+  position: absolute;
+  top: 1720px;
+  left: 0;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.home .tags {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home .selected {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home .text-wrapper-11 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--mainblack);
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.home .line {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 2px;
+  margin-bottom: -1px;
+  margin-left: -1px;
+  margin-right: -1px;
+}
+
+.home .text-wrapper-12 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #8b8b8b;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-13 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #8b8b8b;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.home .icon-px-like {
+  background-image: url(./img/favorite-duotone-4.svg);
+  position: relative;
+  width: 32px;
+  height: 32px;
+  background-size: 100% 100%;
+}
+
+.home .icon-like-2 {
+  background-image: url(./img/favorite-duotone-2.svg);
+  position: relative;
+  width: 32px;
+  height: 32px;
+  background-size: 100% 100%;
+}
+
+.home .category {
+  width: 1440px;
+  align-items: flex-start;
+  gap: 32px;
+  padding: 80px 160px;
+  position: absolute;
+  top: 1368px;
+  left: 0;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: column;
+}
+
+.home .top {
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home .text-wrapper-14 {
+  position: relative;
+  width: 288px;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--mainblack);
+  font-size: 24px;
+  letter-spacing: 0.24px;
+  line-height: 32px;
+}
+
+.home .arrow-s {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home .img-2 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+
+.home .categories {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 32px ;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home .category-card {
+  width: 160px;
+  height: 128px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 24px 52px;
+  position: relative;
+  background-color: #ececec;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.home .img-3 {
+  position: relative;
+  width: 48px;
+  height: 48px;
+}
+
+.home .text-wrapper-15 {
+  color: var(--mainblack);
+  line-height: 24px;
+  position: relative;
+  width: fit-content;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.home .phones {
+  margin-left: -25px;
+  margin-right: -25px;
+  color: var(--mainblack);
+  line-height: 24px;
+  position: relative;
+  width: fit-content;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.home .phones-2 {
+  margin-left: -3.5px;
+  margin-right: -3.5px;
+  color: var(--mainblack);
+  line-height: 24px;
+  position: relative;
+  width: fit-content;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.home .phones-3 {
+  margin-left: -16.5px;
+  margin-right: -16.5px;
+  color: var(--mainblack);
+  line-height: 24px;
+  position: relative;
+  width: fit-content;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.home .phones-4 {
+  margin-left: -11px;
+  margin-right: -11px;
+  color: var(--mainblack);
+  line-height: 24px;
+  position: relative;
+  width: fit-content;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.home .smaller-banners {
+  display: flex;
+  width: 1440px;
+  align-items: flex-start;
+  position: absolute;
+  top: 768px;
+  left: 0;
+}
+
+.home .left-banners {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.home .wide-square {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 328px;
+}
+
+.home .squares {
+  display: flex;
+  height: 272px;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.home .square-banner {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0px 48px 0px 156px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+  background-color: #ececec;
+}
+
+.home .title-text-2 {
+  max-width: 168px;
+  width: 160px;
+  height: 143px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin-left: -4px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.home .apple-airpods-max {
+  position: relative;
+  align-self: stretch;
+  font-family: "SF Pro Display-Light", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.home .text-wrapper-16 {
+  font-weight: 300;
+}
+
+.home .hero {
+  position: absolute;
+  width: 104px;
+  height: 272px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.home .square-banner-2 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0px 48px 0px 156px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+  background-color: #353535;
+}
+
+.home .title-text-3 {
+  max-width: 176px;
+  width: 160px;
+  height: 144px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin-left: -4px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.home .apple-vision-pro {
+  position: relative;
+  align-self: stretch;
+  font-family: "SF Pro Display-Light", Helvetica;
+  font-weight: 400;
+  color: var(--mainwhite);
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.home .image-9 {
+  position: absolute;
+  width: 136px;
+  height: 190px;
+  top: 41px;
+  left: 0;
+  object-fit: cover;
+}
+
+.home .big-banner-5 {
+  height: 600px;
+  align-items: center;
+  gap: 1px;
+  padding: 44px 264px 44px 56px;
+  background-color: #ececec;
+  display: flex;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.home .content-2 {
+  display: flex;
+  flex-direction: column;
+  max-width: 360px;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.home .macbook-air {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Thin", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: 56px;
+}
+
+.home .macbook-pro {
+  position: absolute;
+  width: 292px;
+  height: 502px;
+  top: 49px;
+  left: 428px;
+}
+
+.home .banner-2 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 213px 24px;
+  padding: 0px 160px;
+  top: 134px;
+  background: linear-gradient(180deg, rgb(33, 28, 36) 0%, rgb(33, 28, 36) 100%);
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.home .content-3 {
+  display: flex;
+  flex-direction: column;
+  min-width: 400px;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.home .titles-2 {
+  align-items: flex-start;
+  gap: 24px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home .text-wrapper-17 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  opacity: 0.4;
+  font-family: "Figtree", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.home .iphone-pro-2 {
+  position: relative;
+  align-self: stretch;
+  font-family: "SF Pro Display-Thin", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: -0.96px;
+  line-height: 72px;
+}
+
+.home .text-wrapper-18 {
+  font-family: "SF Pro Display-Regular", Helvetica;
+}
+
+.home .text-wrapper-19 {
+  position: relative;
+  align-self: stretch;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #909090;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.home .iphone-image {
+  position: relative;
+  width: 406px;
+  height: 632px;
+}
+
+.home .iphone-image-2 {
+  position: absolute;
+  width: 406px;
+  height: 559px;
+  top: 73px;
+  left: 0;
+  object-fit: cover;
+}
+
+.home .header {
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  align-items: flex-start;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.home .header-top {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  padding: 16px 160px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--mainwhite);
+}
+
+.home .search-field {
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  height: 56px;
+}
+
+.home .navbar {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 52px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home .text-wrapper-20 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--mainblack);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-21 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  opacity: 0.3;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--mainblack);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home .icons {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home .subnav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 66px 16px;
+  padding: 8px 160px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--secondarycharcoal);
+}
+
+.home .nav-category {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home .img-4 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.home .text-wrapper-22 {
+  margin-top: -1px;
+  opacity: 0.5;
+  color: var(--mainwhite);
+  line-height: 32px;
+  position: relative;
+  width: fit-content;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.home .devider {
+  position: relative;
+  width: 1px;
+  height: 24px;
+  object-fit: cover;
+}
+
